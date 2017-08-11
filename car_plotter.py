@@ -9,7 +9,6 @@ input_filemame = "car_info.txt"
 num_cols = 10
 num_rows = 10
 
-
 # Helper function:
 def count_string(x):
     if (x == 0):
