@@ -1,0 +1,23 @@
+2002: coupe     : silver: 91195 : 18950
+2002: coupe     : grey  : 124016: 14998
+1999: coupe     : black : 100000: 17999
+2000: cabriolet : yellow: 78000 : 20000
+2001: cabriolet4: red   : 28266 : 24999
+2000: coupe     : gray  : 129236: 14900
+2003: coupe     : gray  : 129835: 19500
+2000: cabriolet : gold  : 85600 : 24600
+1999: cabriolet : silver: 78000 : 18299
+1999: cabriolet : black : 103999: 20900
+2002: cabriolet : silver: 67344 : 23995
+1999: coupe     : silver: 150000: 10000
+2000: cabriolet : silver: 74000 : 23000
+1999: coupe     : blue  : 130917: 14999
+1999: cabriolet : silver: 87200 : 21925
+2000: cabriolet4: yellow: 142970: 18999
+1999: coupe     : yellow: 100000: 18000
+1999: coupe     : blue  : 84159 : 16588
+2000: coupe     : gray  : 35579 : 23995
+1999: cabriolet : black : 79000 : 14750
+2000: cabriolet : silver: 123000: 18000
+1999: coupe     : black : 89000 : 16000
+1999: coupe     : blue  : 84159 : 16588
